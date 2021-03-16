@@ -52,11 +52,11 @@ if(process.env.NODE_END === 'production'){
 }
 
 
-app.get('/', (req, res) => {
-    res.json({
-        msg: 'Node is running, its good'
-    })
-});
+// app.get('/', (req, res) => {
+//     res.json({
+//         msg: 'Node is running, its good'
+//     })
+// });
 
 const PORT = process.env.PORT || 5000
 app.listen(PORT, () => {
