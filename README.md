@@ -6,3 +6,4 @@ MongoDb-Atlas,
 cloudinary (for image upload)
 
 git link: https://github.com/gitcoder-23/mern-eshop
+heroku link: https://ecart-react.herokuapp.com/

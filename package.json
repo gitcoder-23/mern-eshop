@@ -19,7 +19,7 @@
   "securepwd": "https://passwordsgenerator.net/",
   "git": "https://github.com/gitcoder-23/mern-eshop",
   "Cloudinary-image-upload": "https://cloudinary.com/",
-  "netlify": "",
+  "heroku": "https://ecart-react.herokuapp.com/",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
