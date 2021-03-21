@@ -36,6 +36,9 @@ button{
 /* ---------------- Header ------------ */
 @import url("./components/headers/header.css");
 
+/* ---------------- Header ------------ */
+@import url("./components/footer/footer.css");
+
 /* ------------- Products -------------- */
 
 @import url("./components/mainpages/products/products.css");
@@ -96,6 +99,21 @@ button{
   header{
     justify-content: space-between;
   }
+
+  .row.footer-row {
+    display: block !important;
+    padding: 30px 0 !important;
+}
+
+.col-lg-4 {
+  width: auto !important;
+  margin-bottom: 40px !important;
+}
+
+.iframe_map {
+  width: auto !important;
+  height: auto !important;
+}
 }
 
 @media (max-width: 570px){
